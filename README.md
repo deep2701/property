@@ -122,3 +122,10 @@ to read:
 ```xml
 <logger name="org.web3j.protocol" level="DEBUG"/>
 ```
+
+## Coverity 
+
+<a href="https://scan.coverity.com/projects/property">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/20886/badge.svg"/>
+</a>
